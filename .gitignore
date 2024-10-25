@@ -1,0 +1,37 @@
+# Visual Studio cache and user-specific files
+.vs/
+*.suo
+*.user
+*.sln.DotSettings
+*.pdb
+*.idb
+*.ipch
+*.aps
+*.ncb
+*.opendb
+*.sdf
+*.ilk
+*.log
+*.obj
+*.pch
+*.res
+*.tlog
+*.vspscc
+*.vssscc
+
+# Generated files
+*.tli
+*.tlh
+*.tmp
+*.bak
+*.obj
+*.pch
+*.ilk
+*.pdb
+*.exp
+*.lib
+*.dll
+*.exe
+
+# Visual Studio Code
+.vscode/
